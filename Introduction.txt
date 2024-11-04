@@ -1,0 +1,4 @@
+Daily Java Learning 📘
+Welcome to my Java learning journey! This repository is a day-by-day log of my progress as I dive deeper into Java programming. Each day's content includes examples, exercises, and notes that capture what I’ve learned, from basic syntax to advanced concepts. Whether you're also learning Java or just want to follow along, I hope you find something useful here.
+
+Feel free to explore, suggest improvements, or contribute ideas! Happy coding! 😊
