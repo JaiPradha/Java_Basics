@@ -1,0 +1,9 @@
+The problem requires printing a solid square pattern of * with a size of 5x5. 
+This means the output should have 5 rows and 5 columns, where every position is filled with a *.
+* * * * * 
+* * * * *
+* * * * *
+* * * * *
+* * * * *
+ach row contains 5 stars, and there are 5 such rows.
+ The approach to solving this involves using loops to repeatedly print the same pattern in each row.
