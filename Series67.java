@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class Series67 {
     public static void main(String[] args) {
